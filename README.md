@@ -15,5 +15,19 @@
 3) We design and evaluate alternatives that materialize each of the two components (affective featureembedding and contextual feature embedding) of the proposed deep neural network architecturemodel. We systematically evaluate the effectiveness of each alternative architecture.
 4) We conduct an extensive evaluation of the performance of the proposed models (ACE 1 and ACE 2),which demonstrates that they significantly outperform current state-of-the-art models for sarcasmdetection.
 
+**Corpora for Training Embeddings**
 
+1) News : https://www.kaggle.com/snapcrack/all-the-news
+2) Wikipedia : https://www.kaggle.com/jkkphys/english-wikipedia-articles-20170820-sqlite
+3) WikiSarc: IMSDB:https://www.imsdb.com/ Scraper:https://github.com/JoeKarlsson/movie-script-scraper
+4) Riloff: riloff-etal-2013-sarcasm
+
+
+** Sarcasm Detection Datasets**
+
+Onion : https://github.com/rishabhmisra/News-Headlines-Dataset-For-Sarcasm-Detection
+IAC : https://nlds.soe.ucsc.edu/sarcasm2
+Reddit : https://nlp.cs.princeton.edu/SARC/0.0/
+Pt'acek: Ptcek2014SarcasmDO
+SemEval-201: van-hee-etal-2018-semeval
 
