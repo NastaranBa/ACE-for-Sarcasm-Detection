@@ -31,8 +31,9 @@
 4) Pt'acek: Ptcek2014SarcasmDO
 5) SemEval-201: van-hee-etal-2018-semeval
 
-Dependency installation
-Python 3.6. The package requirements are stored in requirements folder.
+**Dependency installation**
+
+Python 3.6. The package requirements are stored in requirements.
 
 To install the requirements, execute the following command:
 
