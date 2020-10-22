@@ -31,3 +31,15 @@
 4) Pt'acek: Ptcek2014SarcasmDO
 5) SemEval-201: van-hee-etal-2018-semeval
 
+Dependency installation
+Python 3.6. The package requirements are stored in requirements folder.
+
+To install the requirements, execute the following command:
+
+For GPU usage, execute:
+
+pip install -r requirements/requirements-gpu.txt
+and for CPU usage:
+
+pip install -r requirements/requirements-cpu.txt
+
