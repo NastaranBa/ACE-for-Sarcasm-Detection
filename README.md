@@ -25,9 +25,9 @@
 
 ** Sarcasm Detection Datasets**
 
-Onion : https://github.com/rishabhmisra/News-Headlines-Dataset-For-Sarcasm-Detection
-IAC : https://nlds.soe.ucsc.edu/sarcasm2
-Reddit : https://nlp.cs.princeton.edu/SARC/0.0/
-Pt'acek: Ptcek2014SarcasmDO
-SemEval-201: van-hee-etal-2018-semeval
+1) Onion : https://github.com/rishabhmisra/News-Headlines-Dataset-For-Sarcasm-Detection
+2) IAC : https://nlds.soe.ucsc.edu/sarcasm2
+3) Reddit : https://nlp.cs.princeton.edu/SARC/0.0/
+4) Pt'acek: Ptcek2014SarcasmDO
+5) SemEval-201: van-hee-etal-2018-semeval
 
