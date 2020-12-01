@@ -44,3 +44,19 @@ and for CPU usage:
 
 pip install -r requirements/requirements-cpu.txt
 
+Citation:
+@inproceedings{babanejad-etal-2020-affective,
+    title = "Affective and Contextual Embedding for Sarcasm Detection",
+    author = "Babanejad, Nastaran  and
+      Davoudi, Heidar  and
+      An, Aijun  and
+      Papagelis, Manos",
+    booktitle = "Proceedings of the 28th International Conference on Computational Linguistics",
+    month = dec,
+    year = "2020",
+    address = "Barcelona, Spain (Online)",
+    publisher = "International Committee on Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2020.coling-main.20",
+    pages = "225--243",
+    abstract = "Automatic sarcasm detection from text is an important classification task that can help identify the actual sentiment in user-generated data, such as reviews or tweets. Despite its usefulness, sarcasm detection remains a challenging task, due to a lack of any vocal intonation or facial gestures in textual data. To date, most of the approaches to addressing the problem have relied on hand-crafted affect features, or pre-trained models of non-contextual word embeddings, such as Word2vec. However, these models inherit limitations that render them inadequate for the task of sarcasm detection. In this paper, we propose two novel deep neural network models for sarcasm detection, namely ACE 1 and ACE 2. Given as input a text passage, the models predict whether it is sarcastic (or not). Our models extend the architecture of BERT by incorporating both affective and contextual features. To the best of our knowledge, this is the first attempt to directly alter BERT{'}s architecture and train it from scratch to build a sarcasm classifier. Extensive experiments on different datasets demonstrate that the proposed models outperform state-of-the-art models for sarcasm detection with significant margins.",
+}
